@@ -5,6 +5,7 @@ import TodoListBody from '../TodoListBody/TodoListBody';
 
 const TodoList = () => {
     const [data, setData] = useState([]);
+    console.log(data)
 
     return (
         <div className="todoList">
