@@ -1,0 +1,22 @@
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form input {
+    background: transparent;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #845AFC;
+    color: #fff;
+    outline: none;
+}
+
+form button {
+    background: #845AFC;
+    color: #fff;
+    padding: 11px;
+    border: none;
+    outline: none;
+}

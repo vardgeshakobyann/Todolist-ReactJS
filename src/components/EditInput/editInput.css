@@ -1,0 +1,7 @@
+.editForm {
+    color: #fff;
+}
+
+.editForm input::placeholder {
+    color: #fff;
+}

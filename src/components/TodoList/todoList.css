@@ -1,0 +1,13 @@
+.todoList {
+    width: 450px;
+    height: 500px;
+    background: #1B1A41;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+}
+
+.todoList h1 {
+    color: #fff;
+    font-family: Tahoma;
+}
